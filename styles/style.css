@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url(../assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.paraText{
+    /* font-size: 15px; */
+    font-family: 'Inter', sans-serif;
+    color: hsl(236, 13%, 42%);
+    font-weight: 400;
+}
+
+.numText{
+    font-family: 'Inter', sans-serif;
+    color: #C6C4C9;
+    font-weight: 700;
+}
+
+.newText{
+    font-family: 'Inter', sans-serif;
+    color: hsl(35, 77%, 62%);
+    font-weight: 700;
+}
+
+.drkBlue{
+    font-family: 'Inter', sans-serif;
+    color: hsl(240, 100%, 5%);
+}
+
+.offWhite{
+    font-family: 'Inter', sans-serif;
+    color: hsl(36, 100%, 99%);
+    font-weight: 700;
+}
+.offWhite:hover{
+    font-family: 'Inter', sans-serif;
+    color: hsl(35, 77%, 62%);
+    font-weight: 700;
+}
+
+.buttN{
+    color: hsl(36, 100%, 99%);
+    background-color: hsl(5, 85%, 63%);
+    font-family: 'Inter', sans-serif!important;
+}
+.buttN:hover{
+    color: hsl(36, 100%, 99%);
+    background-color: hsl(240, 100%, 5%);
+    font-family: 'Inter', sans-serif!important; 
+}
+
+.FONT{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+}
+
+.textfont743{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: hsl(240, 100%, 5%);
+}
+.textfont743:hover{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: hsl(5, 85%, 63%);
+}
+
+.line-style{
+    border: solid;
+    color: hsl(236, 13%, 42%) !important;
+    opacity: 1;
+    border-width: 1px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.img3{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.textMargin{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.futureHeader {
+    line-height: 1.1em !important;
+}
